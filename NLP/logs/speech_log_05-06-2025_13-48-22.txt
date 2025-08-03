@@ -1,0 +1,7 @@
+Timestamp: 05-06-2025_13-48-22
+Language: en-US
+Transcription: I hate this product
+Sentiment Polarity: -0.80
+Sentiment Subjectivity: 0.90
+Intent: Greeting
+Keywords: hate, product

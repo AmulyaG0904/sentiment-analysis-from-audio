@@ -1,0 +1,7 @@
+Timestamp: 05-06-2025_13-37-09
+Language: en-US
+Transcription: hey how are you doing
+Sentiment Polarity: 0.00
+Sentiment Subjectivity: 0.00
+Intent: Greeting
+Keywords: hey

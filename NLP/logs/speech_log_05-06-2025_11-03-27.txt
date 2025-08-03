@@ -1,0 +1,7 @@
+Timestamp: 05-06-2025_11-03-27
+Language: hi-IN
+Transcription: हम सोने जा
+Sentiment Polarity: 0.00
+Sentiment Subjectivity: 0.00
+Intent detection skipped.
+Keywords: 

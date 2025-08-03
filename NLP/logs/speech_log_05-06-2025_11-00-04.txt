@@ -1,0 +1,7 @@
+Timestamp: 05-06-2025_11-00-04
+Language: kn-IN
+Transcription: ನಾನು ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದೇನೆ
+Sentiment Polarity: 0.00
+Sentiment Subjectivity: 0.00
+Intent detection skipped.
+Keywords: 

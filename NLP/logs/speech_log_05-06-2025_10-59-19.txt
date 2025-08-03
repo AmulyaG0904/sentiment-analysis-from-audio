@@ -1,0 +1,7 @@
+Timestamp: 05-06-2025_10-59-19
+Language: en-US
+Transcription: will it rain today
+Sentiment Polarity: 0.00
+Sentiment Subjectivity: 0.00
+Intent: Weather Inquiry
+Keywords: rain, today

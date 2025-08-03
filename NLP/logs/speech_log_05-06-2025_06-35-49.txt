@@ -1,0 +1,5 @@
+Timestamp: 05-06-2025_06-35-49
+Language: hi-IN
+Transcription: मैं अभी सो रही
+Sentiment Polarity: 0.00
+Intent detection skipped.

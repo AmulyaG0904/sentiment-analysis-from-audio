@@ -1,0 +1,5 @@
+Timestamp: 05-06-2025_06-51-51
+Language: en-US
+Transcription: I am working
+Sentiment Polarity: 0.00
+Intent: General Statement

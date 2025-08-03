@@ -1,0 +1,7 @@
+Timestamp: 05-06-2025_06-54-39
+Language: en-US
+Transcription: will it rain tomorrow
+Sentiment Polarity: 0.00
+Sentiment Subjectivity: 0.00
+Intent: Weather Inquiry
+Keywords: rain, tomorrow

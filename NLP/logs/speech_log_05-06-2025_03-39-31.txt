@@ -1,0 +1,5 @@
+Timestamp: 05-06-2025_03-39-31
+Language: kn-IN
+Transcription: ನಾನು ಕೆಲಸ
+Sentiment Polarity: 0.00
+Intent detection skipped.

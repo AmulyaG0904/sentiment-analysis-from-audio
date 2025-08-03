@@ -1,0 +1,5 @@
+Timestamp: 05-06-2025_03-43-40
+Language: kn-IN
+Transcription: ನಾನು ಗಾಂಡು
+Sentiment Polarity: 0.00
+Intent detection skipped.

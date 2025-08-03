@@ -1,0 +1,7 @@
+Timestamp: 05-06-2025_06-55-18
+Language: en-US
+Transcription: I have a lot of work
+Sentiment Polarity: 0.00
+Sentiment Subjectivity: 0.00
+Intent: General Statement
+Keywords: lot, work

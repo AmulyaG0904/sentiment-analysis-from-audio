@@ -1,0 +1,4 @@
+Timestamp: 05-06-2025_03-34-51
+Transcription: my college name is BMS College of Engineering
+Sentiment Polarity: 0.00
+Intent: General Statement

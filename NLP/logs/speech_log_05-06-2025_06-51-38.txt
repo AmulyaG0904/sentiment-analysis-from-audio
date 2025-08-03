@@ -1,0 +1,5 @@
+Timestamp: 05-06-2025_06-51-38
+Language: hi-IN
+Transcription: मैं सो रही हूं
+Sentiment Polarity: 0.00
+Intent detection skipped.
